@@ -3,7 +3,7 @@
 
 ## UofTCTF 2024
 
-| Name                                                                                                                | Category  | TLDR                                                                 | Solves     |
+| Name                                                                                                                | Category  | TL;DR                                                                 | Solves     |
 | ------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------- | ---------- |
 | [JS Evaluator](https://github.com/UofTCTF/uoftctf-2024-chals-public/tree/master/Jail/js_evaluator)                  | Jail      | Simulated 0-day in custom patched version of Babel's path.evaluate() | 2 / 1225   |
 | [JS Blacklist](https://github.com/UofTCTF/uoftctf-2024-chals-public/tree/master/Jail/js_blacklist)                  | Jail      | AST-based Javascript jail with a long, restrictive blacklist         | 4 / 1225   |
@@ -22,7 +22,7 @@
 
 ## UofTCTF 2023
 
-| Name                                                                                                           | Category            | TLDR                                                                                          | Solves |
+| Name                                                                                                           | Category            | TL;DR                                                                                          | Solves |
 | -------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------- | ------ |
 | [Library](https://github.com/UofTCTF/uoftctf-2023/tree/master/Web/web_library)                                 | Web                 | LFI with non-recursive stripping, enumerating package.json to discover hidden files + nodejs version | 4 / 57 |
 | [Secret Password](https://github.com/UofTCTF/uoftctf-2023/tree/master/Reverse%20Engineering/Secret%20Password) | Reverse Engineering | Obfuscated Javascript flag-checker                                                            | 7 / 57 |
