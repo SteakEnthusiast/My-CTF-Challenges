@@ -1,6 +1,13 @@
 # My-CTF-Challenges
  A collection of challenges I made for CTF competitions
 
+## L3akCTF 2024
+
+| Name | Category | TL;DR | Solves |
+| ---- | -------- | ----- | ------ |
+| [Refactor as a Service 2](https://github.com/L3AK-TEAM/L3akCTF-2024-public/tree/main/misc/refactor-as-a-service-2) | Misc | Blocking previously found `#execute` gadget, auditing src to find insecure use of eval, escaping double quotation context by injecting a backslash -- Based on CVE-2024-36120 | 3/497 |
+| [Refactor as a Service 1](https://github.com/L3AK-TEAM/L3akCTF-2024-public/tree/main/misc/refactor-as-a-service) | Misc | Error-based information disclosure to leak used npm package, reading documentation to find and leverage the `#execute` function evaluation feature | 7/497 |
+
 ## UofTCTF 2024
 
 | Name                                                                                                                | Category  | TL;DR                                                                 | Solves     |
