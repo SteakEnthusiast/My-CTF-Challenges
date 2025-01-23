@@ -1,6 +1,8 @@
 # My-CTF-Challenges
  A collection of challenges I made for CTF competitions
 
+## UofTCTF 2025
+
 | Name                                                                                                                        | Category  | TL;DR                                                                                                                                                                                                                                                                                | Solve Count |
 | --------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------: |
 | [JS Blacklist V2](https://github.com/UofTCTF/uoftctf-2025-chals-public/tree/master/js-blacklist-v2)                         | Jail      | Using @babel/parser's`createImportExpressions`, NodeJS dynamic import quirk, smuggling a data URI into the toString of a class via `LabeledStatement`                                                                                                                                |      0/1510 |
